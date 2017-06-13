@@ -1,2 +1,3 @@
 # project_otome
-walking tome
+project otome
+please add any ideas you can imagine.
